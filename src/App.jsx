@@ -276,7 +276,7 @@ SOFT SKILLS & BEHAVIORAL LOGS
 
           <div className="flex gap-4">
             <a 
-              href="https://github.com/kenilbaldaniya" 
+              href="https://github.com/kenil-cyb" 
               target="_blank" 
               rel="noreferrer"
               className="hover:text-cyber-green transition-colors duration-200"
@@ -284,7 +284,7 @@ SOFT SKILLS & BEHAVIORAL LOGS
               GitHub
             </a>
             <a 
-              href="https://linkedin.com/in/kenilbaldaniya" 
+              href="https://linkedin.com/in/kenilbaldaniya(not_official)" 
               target="_blank" 
               rel="noreferrer"
               className="hover:text-cyber-green transition-colors duration-200"
@@ -292,7 +292,7 @@ SOFT SKILLS & BEHAVIORAL LOGS
               LinkedIn
             </a>
             <a 
-              href="mailto:kenilbaldaniya123@gmail.com" 
+              href="mailto:kenilbaldaniya510@gmail.com" 
               className="hover:text-cyber-green transition-colors duration-200"
             >
               Email Secure
